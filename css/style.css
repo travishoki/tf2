@@ -9,3 +9,6 @@ body {
 	text-align: center;
 	font-weight: bold;
 }
+#content ul {
+	list-style: none;
+}
