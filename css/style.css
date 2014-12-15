@@ -12,3 +12,9 @@ body {
 #content ul {
 	list-style: none;
 }
+#content li:nth-child(odd) {
+	background: #111;
+}
+#content li:nth-child(even) {
+	background: #ccc;
+}
