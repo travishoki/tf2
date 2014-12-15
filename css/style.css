@@ -13,7 +13,7 @@ body {
 	list-style: none;
 }
 #content li:nth-child(odd) {
-	background: #111;
+	background: #aaa;
 }
 #content li:nth-child(even) {
 	background: #ccc;
